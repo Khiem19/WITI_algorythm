@@ -1,1 +1,2 @@
 # WITI_algorythm
+Algorithm should find order with the smallest total tardiness. In this problem, each task was described by proccessing time (P), weight (W) and desired ending time (D). Delay for each task was computed as a product of weight and difference between real and desired ending time (delay cannot be greater than zero). Dynammic programming approach was used in this algorithm.
